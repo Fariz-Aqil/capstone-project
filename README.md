@@ -1,10 +1,6 @@
 ## 📌 Project Title
 **Snake Game dengan Menu menggunakan Python dan Pygame**
 
-![IBM Granite Logo](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198223/Granite_banner%20%281%29.jpg)
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 ## 📝 Deskkripsi
 Sebuah permainan klasik "Snake" yang dibuat menggunakan Python dan library Pygame. Game ini menyajikan antarmuka menu awal, sistem skor, serta tantangan permainan sederhana yang semakin seru seiring panjangnya ular. Cocok sebagai latihan logika dasar pemrograman game 2D.
@@ -36,5 +32,13 @@ Sebuah permainan klasik "Snake" yang dibuat menggunakan Python dan library Pygam
 ### 2. Instal Python
 Pastikan kamu sudah menginstal **Python 3**.  
 Cek dengan:
+
 ```bash
 python --version
+```
+### Powered by
+[![IBM Granite Logo](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198223/Granite_banner%20%281%29.jpg)](https://www.ibm.com/new/announcements/ibm-granite-3-3-speech-recognition-refined-reasoning-rag-loras)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
