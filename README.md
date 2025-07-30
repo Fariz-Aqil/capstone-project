@@ -1,7 +1,7 @@
-## 📌 Project Title
+## 📌 Judul Proyek
 (klik gambar jika ingin mencoba game)
 [![Snake Game Logo](https://m.media-amazon.com/images/I/41AJiF3rYZL.png)](https://project-ular.netlify.app/)
-**Snake Game dengan Menu menggunakan Python dan Pygame**
+**Snake Game dengan Menu menggunakan Python dan Pygame dengan bantuan AI IBM Granite dan Copilot**
 
 ## 📝 Deskkripsi
 Sebuah permainan klasik "Snake" yang dibuat menggunakan Python dan library Pygame. Game ini menyajikan antarmuka menu awal, sistem skor, serta tantangan permainan sederhana yang semakin seru seiring panjangnya ular. Cocok sebagai latihan logika dasar pemrograman game 2D.
