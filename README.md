@@ -38,6 +38,7 @@ Cek dengan:
 python --version
 ```
 ### Powered by
+[![hacktiv8 logo](https://joanlamrack.github.io/images/hacktiv8-dark.webp)](https://www.hacktiv8.com/?utm_source=google&utm_medium=cpc&utm_campaign=Brand-all&utm_content=hacktiv8&utm_term=responsive-ads&gad_source=1&gad_campaignid=15141267081&gbraid=0AAAAADSnsWDF15xeLi792yrpjLKw2HUZe&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNOBaoUa0M57ogCpkRV3jX3o3i-AhmahCxH056FoYNA-4FUuJceUzeQaAo4kEALw_wcB)
 [![IBM Granite Logo](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198223/Granite_banner%20%281%29.jpg)](https://www.ibm.com/new/announcements/ibm-granite-3-3-speech-recognition-refined-reasoning-rag-loras)
 [![GitHub Copilot Logo](https://agiletechguru.in/wp-content/uploads/2024/03/Github-Copilot-Logo_Transperent-768x323.png)](https://github.com/features/copilot)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
