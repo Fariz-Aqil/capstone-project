@@ -1,6 +1,7 @@
 ## 📌 Project Title
-**Snake Game dengan Menu menggunakan Python dan Pygame**
 
+![Snake Game Logo](https://m.media-amazon.com/images/I/41AJiF3rYZL.png)
+**Snake Game dengan Menu menggunakan Python dan Pygame**
 
 ## 📝 Deskkripsi
 Sebuah permainan klasik "Snake" yang dibuat menggunakan Python dan library Pygame. Game ini menyajikan antarmuka menu awal, sistem skor, serta tantangan permainan sederhana yang semakin seru seiring panjangnya ular. Cocok sebagai latihan logika dasar pemrograman game 2D.
