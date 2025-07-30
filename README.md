@@ -39,6 +39,7 @@ python --version
 ```
 ### Powered by
 [![IBM Granite Logo](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198223/Granite_banner%20%281%29.jpg)](https://www.ibm.com/new/announcements/ibm-granite-3-3-speech-recognition-refined-reasoning-rag-loras)
+[![GitHub Copilot Logo](https://agiletechguru.in/wp-content/uploads/2024/03/Github-Copilot-Logo_Transperent-768x323.png)](https://github.com/features/copilot)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
