@@ -1,7 +1,7 @@
 ## 📌 Project Title
 **Snake Game dengan Menu menggunakan Python dan Pygame**
 
-
+![IBM Granite Logo](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198223/Granite_banner%20%281%29.jpg)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
