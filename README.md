@@ -1,5 +1,5 @@
 ## 📌 Project Title
-
+(klik gambar jika ingin mencoba game)
 [![Snake Game Logo](https://m.media-amazon.com/images/I/41AJiF3rYZL.png)](https://project-ular.netlify.app/)
 **Snake Game dengan Menu menggunakan Python dan Pygame**
 
